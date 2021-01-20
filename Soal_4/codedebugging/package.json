@@ -1,0 +1,22 @@
+{
+  "name": "node-simple-github-oauth",
+  "version": "1.0.0",
+  "description": "Code debugging built with NodeJs",
+  "main": "app.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "idris",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/idriscahyono/refactory.git"
+  }
+}
